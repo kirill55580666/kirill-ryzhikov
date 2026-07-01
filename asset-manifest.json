@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.781e645c.css",
+    "main.js": "/static/js/main.4f254fa1.js",
+    "static/media/me.jpg": "/static/media/me.259474a8a8885e6fa9a2.jpg",
+    "static/media/kremlinCeramiks.png": "/static/media/kremlinCeramiks.2d7cc97ef9be1957bcc5.png",
+    "static/media/reactCV.png": "/static/media/reactCV.b32870b30b090392c524.png",
+    "static/media/avanta.png": "/static/media/avanta.35bb72907e68c1c8a688.png",
+    "static/media/JetBrainsMonoSemiBold.woff2": "/static/media/JetBrainsMonoSemiBold.b5b0addff573d47465cd.woff2",
+    "static/media/JetBrainsMonoMedium.woff2": "/static/media/JetBrainsMonoMedium.c3cffe4a89516250a539.woff2",
+    "static/media/JetBrainsMonoRegular.woff2": "/static/media/JetBrainsMonoRegular.1e66c47aca088de94ae7.woff2",
+    "static/media/mernDisk.png": "/static/media/mernDisk.5b1e4e5ab43c24148369.png",
+    "static/media/paint.png": "/static/media/paint.72c186402410ca837e49.png",
+    "static/media/redux.png": "/static/media/redux.296b9306ae3e4de348c6.png",
+    "static/media/mongo.png": "/static/media/mongo.202e2c9eaab94012c58d.png",
+    "static/media/www.svg": "/static/media/www.0af5a6e87045790e27c91681a6f0d7ee.svg",
+    "static/media/express.svg": "/static/media/express.4925c0127df8857c18b38329795ce88f.svg",
+    "index.html": "/index.html",
+    "static/media/github.svg": "/static/media/github.ebf171eb1fbfba8509caf0acb6a8cfb8.svg",
+    "static/media/github_white.svg": "/static/media/github_white.ebf171eb1fbfba8509caf0acb6a8cfb8.svg",
+    "static/media/telegram.svg": "/static/media/telegram.3c5cdffb5019b007a48ef85b74032f0c.svg",
+    "main.781e645c.css.map": "/static/css/main.781e645c.css.map",
+    "main.4f254fa1.js.map": "/static/js/main.4f254fa1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.781e645c.css",
+    "static/js/main.4f254fa1.js"
+  ]
+}
